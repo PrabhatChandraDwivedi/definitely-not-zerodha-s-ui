@@ -1,2 +1,2 @@
-# definitely-not-zerodha-s-ui
+# definitely-not-zerodhas-ui
 definitely not a clone
